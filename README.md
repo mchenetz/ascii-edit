@@ -25,7 +25,7 @@ A React-based WYSIWYG editor for Asciinema recordings (`.cast`/`asciicast v2/v3`
 ## Run
 
 ```bash
-cd /Users/mchenetz/git/ascii-edit
+cd /Users/[username]]/git/ascii-edit
 npm install
 npm run dev
 ```
