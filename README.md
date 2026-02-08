@@ -2,6 +2,8 @@
 
 A video editor for Asciinema recordings (`.cast`/`asciicast v2/v3`).
 
+![Ascii Edit screenshot](resources/Asciiedit.png)
+
 ## Features
 
 - Load local `asciicast` files in both JSON-object and line-based (`.cast`) formats.
