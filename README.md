@@ -1,6 +1,6 @@
 # Ascii Edit (React)
 
-A React-based WYSIWYG editor for Asciinema recordings (`.cast`/`asciicast v2/v3`) with a video-editor style timeline.
+A video editor for Asciinema recordings (`.cast`/`asciicast v2/v3`).
 
 ## Features
 
